@@ -1,2 +1,1 @@
-my second commit is updated!
-congra.
+my second commit is updated now!

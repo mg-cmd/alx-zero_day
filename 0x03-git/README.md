@@ -1,1 +1,1 @@
-Updated frmo github manually!
+Readme file is updated from github!
